@@ -1,3 +1,5 @@
 # First Node Server
 
-Repository: first-node-server
+## Following a tutorial on Node.js
+
+Creation of a first node.js server. Experimenting with the server's organization and function.
